@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1419803482 source:c:\users\dr. isotopo\proyectos sdl\conway's\main.cpp
+	<iostream>
+	<SDL.h>
+
+1419805968 source:c:\users\dr. isotopo\proyectos sdl\conway's\conway.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<SDL.h>
+
